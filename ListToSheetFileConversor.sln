@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListToSheetFileConversor", "ListToSheetFileConversor\ListToSheetFileConversor.csproj", "{55C58991-96EF-44C1-9D71-D9504AA128C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListToSheetFileConversor.ConsoleDemoApp", "ListToSheetFileConversor\ListToSheetFileConversor.ConsoleDemoApp.csproj", "{55C58991-96EF-44C1-9D71-D9504AA128C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListToSheetConversor", "ListToSheetConversor\ListToSheetConversor.csproj", "{49882E69-DB94-48CA-99DC-732A1077128E}"
 EndProject
