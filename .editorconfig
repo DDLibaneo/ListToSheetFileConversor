@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0305: Simplify collection initialization
+dotnet_style_prefer_collection_expression = never
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none
